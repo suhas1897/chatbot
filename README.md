@@ -1,6 +1,4 @@
-# Save the provided markdown content to a README.md file
 
-markdown_content = """
 # Medical & Pharmacy AI Chatbot 🤖💊
 
 Welcome to the Medical & Pharmacy AI Chatbot! This project is a full-stack application built to assist users with medical queries, appointment booking, and medicine ordering. Powered by FastAPI, MongoDB, React.js, and Ollama (phi3 model), it runs locally on your Windows machine (`D:\\medical chat bot`) and provides a seamless user experience. 🚀
